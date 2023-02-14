@@ -1,2 +1,2 @@
 # Social-Network-Django
-Social Networking Application >>>>>>Work in progress
+Work in progress. Trying to build a social networking application.
